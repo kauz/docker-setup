@@ -1,3 +1,5 @@
+![Build Status](https://api.travis-ci.org/kauz/docker-setup.svg?branch=master)
+
 # Docker workflow dev:
 
 ## build
